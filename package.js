@@ -8,7 +8,7 @@ Package.describe({
 
 var both = ['client','server'],
     packages = [
-        'heaven7:wsl-core@0.0.2',
+        'heaven7:wsl-core@0.0.3',
         'alanning:roles@1.2.14'
     ];
 
