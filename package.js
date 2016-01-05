@@ -1,6 +1,6 @@
 Package.describe({
   name: 'heaven7:wsl-permissions',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'Permissions for wsl packages',
   git: 'https://github.com/heaven7/wsl-permissions.git',
   documentation: 'README.md'
@@ -8,7 +8,7 @@ Package.describe({
 
 var both = ['client','server'],
     packages = [
-        'heaven7:wsl-core@0.0.3',
+        'heaven7:wsl-core@0.0.3_1',
         'alanning:roles@1.2.14'
     ];
 
